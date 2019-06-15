@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LazyFragmentDemo</string>
+
+    <string name="NAME_FIRAT_FRAGMENT">首页</string>
+    <string name="NAME_SECOND_FRAGMENT">工作</string>
+    <string name="NAME_THIRD_FRAGMENT">消息</string>
+    <string name="NAME_FOURTH_FRAGMENT">我的</string>
+</resources>
